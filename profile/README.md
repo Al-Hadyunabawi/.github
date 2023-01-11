@@ -1,43 +1,45 @@
-# AL Hadyunabawi
-### Welcome to the Al-Hadyunabawi Organization platform for Arabic Language Foundation Diplomas Sharia Sciences - Arabic Language Sciences!
-This platform is designed to provide students with an online learning experience that focuses on the study of Arabic Language and Sharia Sciences. Our goal is to make learning these subjects accessible and convenient for students of all levels and backgrounds.
+# الهدي النبوي
+### مرحبًا بكم في منصة مؤسسة الهاديو النبوي للغة العربية التأسيس الدبلومات علوم الشريعة - علوم اللغة العربية!
+تم تصميم هذه المنصة لتزويد الطلاب بتجربة تعليمية عبر الإنترنت تركز على دراسة اللغة العربية وعلوم الشريعة. هدفنا هو جعل تعلم هذه الموضوعات سهل المنال وملائم للطلاب من جميع المستويات والخلفيات.
 
-The platform includes a variety of resources such as interactive lessons, quizzes, and assessments to help students master the material. Our curriculum is based on the latest research and best practices in language learning and is taught by experienced educators and experts in the field.
+تتضمن المنصة مجموعة متنوعة من الموارد مثل الدروس التفاعلية والاختبارات والتقييمات لمساعدة الطلاب على إتقان المادة. يعتمد منهجنا على أحدث الأبحاث وأفضل الممارسات في تعلم اللغة ويتم تدريسه من قبل معلمين وخبراء ذوي خبرة في هذا المجال.
 
-In addition to the core curriculum, students also have access to additional resources such as language practice exercises, cultural materials, and a community forum where they can connect with other students and share their progress and insights.
+بالإضافة إلى المنهج الأساسي ، يمكن للطلاب أيضًا الوصول إلى موارد إضافية مثل تمارين اللغة ، والمواد الثقافية ، ومنتدى المجتمع حيث يمكنهم التواصل مع الطلاب الآخرين ومشاركة تقدمهم وآرائهم.
 
-To get started, simply sign up for an account and choose the diploma program you wish to pursue. If you have any questions or need assistance, please don't hesitate to reach out to our support team.
+للبدء ، ما عليك سوى التسجيل للحصول على حساب واختيار برنامج الدبلوم الذي ترغب في متابعته. إذا كانت لديك أي أسئلة أو كنت بحاجة إلى المساعدة ، فلا تتردد في التواصل مع فريق الدعم لدينا.
 
-We look forward to helping you achieve your language and sharia sciences goals!  
+نتطلع إلى مساعدتك في تحقيق أهدافك اللغوية وعلوم الشريعة!
 
-### Features
+### سمات
 
-- Interactive lessons and quizzes
-- Language practice exercises
-- Cultural materials
-- Community forum
-- Access to experienced educators
+- دروس ومسابقات تفاعلية
+- تدريبات اللغة
+- مواد ثقافية
+- منتديات
+- الوصول إلى المعلمين ذوي الخبرة
 
-### Program Curriculum
+### منهج البرنامج
 
-- Introduction to Arabic Language and Linguistics
-- Reading and Writing in Arabic
-- Conversation and Pronunciation
-- Modern Standard Arabic
-- Islamic Jurisprudence
-- Quranic Sciences
-- Hadith Sciences
+- مقدمة في اللغة العربية واللغويات
+- القراءة والكتابة باللغة العربية
+- المحادثة والنطق
+- اللغة العربية الفصحى الحديثة
+- الفقه الإسلامي
+- علوم القرآن
+- علوم الحديث
 
-### Requirements
+### متطلبات
 
-- Internet connection
-- Smart Phone & Modern web browser
-- Email address
+- اتصال بالإنترنت
+- الهواتف الذكية ومتصفح الويب الحديث
+- عنوان البريد الإلكتروني
 
-### Support
+### الدعم
 
-We are here to help if you have any questions or need assistance. you can reach out to us via email alhadyunabawi1@gmail.com.  
+نحن هنا لمساعدتك إذا كان لديك أي أسئلة أو كنت بحاجة إلى المساعدة. يمكنك التواصل معنا عبر البريد الإلكتروني alhadyunabawi1@gmail.com.
 
-### Contribute
+### مساهمة
 
-Al-Hadyunabawi Organization platform is an open-source project, and we welcome contributions from the community. If you are interested in contributing, please check out our GitHub repository at https://github.com/al-hadyunabawi
+منصة منظمة الهديناباوي هي مشروع مفتوح المصدر ، ونحن نرحب بمساهمات المجتمع. إذا كنت مهتمًا بالمساهمة ، فيرجى التحقق من مستودع GitHub الخاص بنا على https://github.com/al-hadyunabawi. 
+
+يمكنك قراءة [الإنجليزية](en.md)
